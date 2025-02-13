@@ -1,0 +1,7 @@
+C:\Users\asher\source\repos\BonelabModInstaller\BonelabModInstaller\bin\Debug\BonelabModInstaller.exe.config
+C:\Users\asher\source\repos\BonelabModInstaller\BonelabModInstaller\bin\Debug\BonelabModInstaller.exe
+C:\Users\asher\source\repos\BonelabModInstaller\BonelabModInstaller\bin\Debug\BonelabModInstaller.pdb
+C:\Users\asher\source\repos\BonelabModInstaller\BonelabModInstaller\obj\Debug\BonelabModInstaller.csproj.AssemblyReference.cache
+C:\Users\asher\source\repos\BonelabModInstaller\BonelabModInstaller\obj\Debug\BonelabModInstaller.csproj.CoreCompileInputs.cache
+C:\Users\asher\source\repos\BonelabModInstaller\BonelabModInstaller\obj\Debug\BonelabModInstaller.exe
+C:\Users\asher\source\repos\BonelabModInstaller\BonelabModInstaller\obj\Debug\BonelabModInstaller.pdb
